@@ -94,6 +94,6 @@ ul {list-style-type: none;}
         height: 44vw;
         }
     .vanta-canvas{
-        width: 100%;
+        width: 100% !important
         }
     }
