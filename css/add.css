@@ -1,0 +1,99 @@
+.contactslink{
+        font-size: 20px;
+        color: white;
+}
+.writeme:hover{
+color:green;
+font-size: 25px;
+}
+.h003,.h3{
+    font-family: "montserrat-bold", sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    margin-bottom: 0;
+    font-weight: 700;
+    }
+.h004{
+    font-family: "montserrat-bold", sans-serif;
+    font-size: 2.6rem;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    margin-bottom: 4rem;
+}
+.h005{
+    font-family: "librebaskerville-bold", serif;
+    font-size: 2.3rem;
+    line-height: 1.455;
+    font-weight: 700;
+   }
+.textcbrown{
+    color:#4C2405!Important;
+}
+.imgmmain{
+    width: 30vw;
+    height: 588px;
+    }
+#home{
+    display: flex;
+    background: 0;
+    z-index: 700;
+    flex-direction: column;
+    justify-content: center;
+    height: 20%;
+    
+} 
+.top__wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 646px;
+}
+.vanta-canvas{
+    height: 646px!important;
+}
+.top__right{
+    width: 63%;
+}
+.title{
+    color: white;
+}
+.home-section-links{
+    display: flex;
+}
+.smoothscroll{
+    display: flex;
+    flex-direction: column;
+}
+.menutitle{
+    z-index: top;
+}
+.nav{
+    position: fixed;
+    z-index: 701!important;
+}
+ul {list-style-type: none;}
+@media only screen and (max-width: 600px){
+    .home-content-tablecell .home-bottom-text {
+        padding-right: 10%;
+        margin-top: 625px;
+    } 
+       
+}
+@media only screen and (max-width: 767px){
+    .top__wrapper{
+        display: flex;
+        flex-direction: column;
+    } 
+    .top__right {
+        width: 100%;
+        padding: 29px
+    }
+    .imgmmain{
+        width: 30vw;
+        height: 44vw;
+        }
+    .vanta-canvas{
+        width: 100%;
+        }
+    }
