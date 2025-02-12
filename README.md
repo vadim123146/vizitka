@@ -3,8 +3,8 @@
 <ol>
 <li>установите Git на компьютер</li>
 <li>склонируйте его, просто в командной строке введите следующий код</br>
-git clone https://github.com/luck456654/Vizitka.git </li>
+git clone https://github.com/vadim12314/vizitka.git </li>
 <li>зайдите в получившуюся папку и запустите файл index.html</li>
 </ol>
 
-<b>Демо</b> - https://luck456654.github.io/Vizitka/
+<b>Демо</b> - https://vadim12314.github.io/Vizitka/
