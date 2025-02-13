@@ -3174,4 +3174,9 @@ footer .footer-social li:last-child {
 
 }
 
-
+.link-gray {
+       color: gray;
+     }
+.vanta-canvas {
+   width: 100%!important;
+    }
